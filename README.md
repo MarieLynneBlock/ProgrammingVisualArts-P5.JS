@@ -1,3 +1,3 @@
 # ProgrammingVisualArts-P5.JS
 
-My portfolio for UCLA (School of the Arts and Architecture)'s course.
+My portfolio for the UCLA Arts Computer Graphics course.
